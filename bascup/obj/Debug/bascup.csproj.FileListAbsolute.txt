@@ -4,3 +4,9 @@ c:\users\администратор\documents\visual studio 2013\Projects\bascup
 c:\users\администратор\documents\visual studio 2013\Projects\bascup\bascup\obj\Debug\bascup.csprojResolveAssemblyReference.cache
 c:\users\администратор\documents\visual studio 2013\Projects\bascup\bascup\obj\Debug\bascup.exe
 c:\users\администратор\documents\visual studio 2013\Projects\bascup\bascup\obj\Debug\bascup.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\bascup\111\bascup\bin\Debug\bascup.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\bascup\111\bascup\obj\Debug\bascup.exe
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\bascup\111\bascup\obj\Debug\bascup.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\bascup\111\bascup\bin\Debug\bascup.exe
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\bascup\111\bascup\bin\Debug\bascup.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\bascup\111\bascup\obj\Debug\bascup.csprojResolveAssemblyReference.cache

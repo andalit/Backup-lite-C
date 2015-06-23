@@ -40,7 +40,7 @@ namespace bascup
                 Console.WriteLine("####################################################");
                 Console.WriteLine("#                                                  #");
                 Console.WriteLine("# Програма для резервного копiювання бази 1с v1.00 #");
-                Console.WriteLine("#                                                  #");
+                Console.WriteLine("#            ХНТУ 2015 5КСМ Созонтов Р.М.          #");
                 Console.WriteLine("#                                                  #");
                 Console.WriteLine("####################################################");
                 Console.WriteLine("");
